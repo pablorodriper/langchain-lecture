@@ -21,11 +21,3 @@ crewai-tools
 # Others
 setuptools
 colorama
-
-# RAG
-# chromadb
-
-#openai
-# pandas
-# tabulate
-# sentence_transformers

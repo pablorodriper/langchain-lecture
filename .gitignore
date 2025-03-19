@@ -1,0 +1,5 @@
+*.bin
+*.sqlite3
+*.pyc
+
+.ipynb_checkpoints/

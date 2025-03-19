@@ -1,0 +1,31 @@
+python-dotenv
+jupyterlab
+
+# Langchain
+langchain-chroma
+langchain-core
+langchain-openai >= 0.3
+langchain-ollama
+langchain-community
+langgraph
+
+# Tools
+wikipedia
+matplotlib
+beautifulsoup4
+
+# CrewAI
+crewai
+crewai-tools
+
+# Others
+setuptools
+colorama
+
+# RAG
+# chromadb
+
+#openai
+# pandas
+# tabulate
+# sentence_transformers

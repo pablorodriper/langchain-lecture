@@ -1,5 +1,16 @@
 # langchain-lecture
 
+## Clone repository
+Clone the repository and checkout the branch `lecture-1`:
+```
+git clone git@github.com:pablorodriper/langchain-lecture.git
+git checkout lecture-1
+```
+or
+```
+git clone --branch lecture-1 git@github.com:pablorodriper/langchain-lecture.git
+```
+
 ## Installation
 Install with `uv`:
 ```

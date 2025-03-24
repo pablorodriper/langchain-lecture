@@ -1,0 +1,27 @@
+[project]
+name = "langchain-lecture"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4",
+    "colorama",
+    "crewai",
+    "crewai-tools",
+    "langchain-chroma",
+    "langchain-community",
+    "langchain-core",
+    "langchain-mcp-adapters",
+    "langchain-ollama",
+    "langchain-openai>=0.3",
+    "langgraph",
+    "loguru",
+    "matplotlib",
+    "mcp",
+    "python-dotenv",
+    #"setuptools",
+    "streamlit",
+    "tabulate",
+    "wikipedia",
+]
